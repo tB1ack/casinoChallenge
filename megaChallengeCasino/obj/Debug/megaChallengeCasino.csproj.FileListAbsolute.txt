@@ -1,0 +1,9 @@
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\bin\megaChallengeCasino.dll.config
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\bin\megaChallengeCasino.dll
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\bin\megaChallengeCasino.pdb
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\obj\Debug\megaChallengeCasino.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\obj\Debug\megaChallengeCasino.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\obj\Debug\megaChallengeCasino.dll
+C:\Users\Tyler Blackman\source\repos\megaChallengeCasino\megaChallengeCasino\obj\Debug\megaChallengeCasino.pdb
